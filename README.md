@@ -18,8 +18,6 @@ applications ("Antrag"). Get instant PDF generation or premium-assisted document
   Test the bot's capabilities with a complimentary trial
 - **User Account Management**  
   Track your active services and account status
-- **Secure Document Handling**  
-  Private file storage and encrypted communications
 
 ## Getting Started
 
@@ -34,6 +32,7 @@ applications ("Antrag"). Get instant PDF generation or premium-assisted document
 1. Clone the repository:
    ```bash
    git clone https://github.com/ugine-bor/AntragHelper.git
+   cd AntragHelper
    ```
 2. Install dependencies:
    ```bash
@@ -77,6 +76,6 @@ applications ("Antrag"). Get instant PDF generation or premium-assisted document
 - Built with Aiogram asynchronous framework
 - State machine for conversation flow
 - Multi-language implementation using i18n
-- Secure user data storage architecture
+- User data storage architecture
 
 ---
