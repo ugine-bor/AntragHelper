@@ -1,0 +1,344 @@
+|28.09.2023 18:49:12| Trefero Gugalpleh (5181177911): used /start command
+|28.09.2023 18:49:14| Trefero Gugalpleh (5181177911): user changes language
+|28.09.2023 18:52:30| Trefero Gugalpleh (5181177911): used /start command
+|28.09.2023 18:52:33| Trefero Gugalpleh (5181177911): user changes language
+|28.09.2023 18:53:15| Trefero Gugalpleh (5181177911): used /start command
+|28.09.2023 18:53:22| Trefero Gugalpleh (5181177911): user changes language
+|28.09.2023 18:53:53| Trefero Gugalpleh (5181177911): used /start command
+|28.09.2023 18:53:56| Trefero Gugalpleh (5181177911): user changes language
+|28.09.2023 18:54:27| Trefero Gugalpleh (5181177911): used /start command
+|28.09.2023 18:54:32| Trefero Gugalpleh (5181177911): user changes language
+|28.09.2023 18:55:45| Trefero Gugalpleh (5181177911): used /start command
+|28.09.2023 18:55:49| Trefero Gugalpleh (5181177911): user changes language
+|28.09.2023 18:56:46| Trefero Gugalpleh (5181177911): used /start command
+|28.09.2023 18:56:48| Trefero Gugalpleh (5181177911): user changes language
+|28.09.2023 18:58:00| Trefero Gugalpleh (5181177911): used /start command
+|28.09.2023 18:58:02| Trefero Gugalpleh (5181177911): user changes language
+|28.09.2023 19:30:50| Trefero Gugalpleh (5181177911): try to add uginebor69@gmail.com as (mail)
+|28.09.2023 19:30:50| Trefero Gugalpleh (5181177911): uginebor69@gmail.com can be used as (mail)
+|28.09.2023 19:30:53| Trefero Gugalpleh (5181177911): user confirmed 'Да' (mail)
+|28.09.2023 19:31:19| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:31:19| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:31:19| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:31:19| Trefero Gugalpleh (5181177911): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:31:19| Trefero Gugalpleh (5181177911): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:31:19| Trefero Gugalpleh (5181177911): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:32:21| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:32:21| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:32:21| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:32:21| Trefero Gugalpleh (5181177911): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:32:22| Trefero Gugalpleh (5181177911): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:32:22| Trefero Gugalpleh (5181177911): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:34:00| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:34:00| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:34:00| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:34:01| Trefero Gugalpleh (5181177911): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_unique_id'
+|28.09.2023 19:34:01| Trefero Gugalpleh (5181177911): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_unique_id'
+|28.09.2023 19:34:23| Trefero Gugalpleh (5181177911): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_unique_id'
+|28.09.2023 19:35:50| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:35:50| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:35:50| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:35:50| Trefero Gugalpleh (5181177911): failed to upload file. AttributeError (/upload) 'list' object has no attribute 'file_unique_id'
+|28.09.2023 19:35:50| Trefero Gugalpleh (5181177911): failed to upload file. AttributeError (/upload) 'list' object has no attribute 'file_unique_id'
+|28.09.2023 19:36:11| Trefero Gugalpleh (5181177911): failed to upload file. AttributeError (/upload) 'list' object has no attribute 'file_unique_id'
+|28.09.2023 19:36:39| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:36:39| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:36:39| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:36:39| Trefero Gugalpleh (5181177911): failed to upload file. Can't parse entities: unsupported start tag "photosize" at byte offset 19 error (/upload)
+|28.09.2023 19:36:39| Trefero Gugalpleh (5181177911): failed to upload file. Can't parse entities: unsupported start tag "photosize" at byte offset 19 error (/upload)
+|28.09.2023 19:37:00| Trefero Gugalpleh (5181177911): failed to upload file. Can't parse entities: unsupported start tag "photosize" at byte offset 19 error (/upload)
+|28.09.2023 19:37:44| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:37:44| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:37:44| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:37:45| Trefero Gugalpleh (5181177911): failed to upload file. Can't parse entities: unsupported start tag "photosize" at byte offset 19 error (/upload)
+|28.09.2023 19:37:45| Trefero Gugalpleh (5181177911): failed to upload file. Can't parse entities: unsupported start tag "photosize" at byte offset 19 error (/upload)
+|28.09.2023 19:37:45| Trefero Gugalpleh (5181177911): failed to upload file. Can't parse entities: unsupported start tag "photosize" at byte offset 19 error (/upload)
+|28.09.2023 19:38:18| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:38:18| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:38:18| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:38:19| Trefero Gugalpleh (5181177911): failed to upload file. Can't parse entities: unsupported start tag "photosize" at byte offset 19 error (/upload)
+|28.09.2023 19:38:19| Trefero Gugalpleh (5181177911): failed to upload file. Can't parse entities: unsupported start tag "photosize" at byte offset 19 error (/upload)
+|28.09.2023 19:38:19| Trefero Gugalpleh (5181177911): failed to upload file. Can't parse entities: unsupported start tag "photosize" at byte offset 19 error (/upload)
+|28.09.2023 19:38:56| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:38:56| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:38:56| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:38:56| Trefero Gugalpleh (5181177911): downloading file AQADwNkxG7TwYUh4 (/upload)
+|28.09.2023 19:38:56| Trefero Gugalpleh (5181177911): downloading file AQADwdkxG7TwYUh4 (/upload)
+|28.09.2023 19:38:56| Trefero Gugalpleh (5181177911): downloading file AQADwtkxG7TwYUh4 (/upload)
+|28.09.2023 19:40:04| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:40:04| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:40:04| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:40:04| Trefero Gugalpleh (5181177911): downloading file AQADwNkxG7TwYUh4 (/upload)
+|28.09.2023 19:40:04| Trefero Gugalpleh (5181177911): downloading file AQADwdkxG7TwYUh4 (/upload)
+|28.09.2023 19:40:04| Trefero Gugalpleh (5181177911): downloading file AQADwtkxG7TwYUh4 (/upload)
+|28.09.2023 19:42:50| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:42:50| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:42:50| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:42:50| Trefero Gugalpleh (5181177911): downloading file {"file_id": "AgACAgIAAxkBAAI922UV1zqX8PxxSFLJRbu1Z93RxgUXAALA2TEbtPBhSNPqHrCkNAWdAQADAgADeQADMAQ", "file_unique_id": "AQADwNkxG7TwYUh-", "file_size": 153840, "width": 1080, "height": 665} (/upload)
+|28.09.2023 19:42:50| Trefero Gugalpleh (5181177911): downloading file {"file_id": "AgACAgIAAxkBAAI93GUV1zqA11lH0Zzv2ReBNTXvLXn_AALC2TEbtPBhSAAB3dvAnXeH1wEAAwIAA3kAAzAE", "file_unique_id": "AQADwtkxG7TwYUh-", "file_size": 124883, "width": 626, "height": 949} (/upload)
+|28.09.2023 19:42:50| Trefero Gugalpleh (5181177911): downloading file {"file_id": "AgACAgIAAxkBAAI93WUV1zrkT5H89SlGA79_73fQHLkZAALB2TEbtPBhSH8gb4OSETAbAQADAgADeQADMAQ", "file_unique_id": "AQADwdkxG7TwYUh-", "file_size": 81934, "width": 1080, "height": 580} (/upload)
+|28.09.2023 19:43:56| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:43:56| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:43:56| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 19:43:57| Trefero Gugalpleh (5181177911): downloading file {"file_id": "AgACAgIAAxkBAAI96WUV131DSL5WgipI6PyRBrIhlxl7AALC2TEbtPBhSAAB3dvAnXeH1wEAAwIAA3kAAzAE", "file_unique_id": "AQADwtkxG7TwYUh-", "file_size": 124883, "width": 626, "height": 949} (/upload)
+|28.09.2023 19:43:57| Trefero Gugalpleh (5181177911): downloading file {"file_id": "AgACAgIAAxkBAAI962UV131YvFVVb3rb-0riv8kVuj3gAALB2TEbtPBhSH8gb4OSETAbAQADAgADeQADMAQ", "file_unique_id": "AQADwdkxG7TwYUh-", "file_size": 81934, "width": 1080, "height": 580} (/upload)
+|28.09.2023 19:43:57| Trefero Gugalpleh (5181177911): downloading file {"file_id": "AgACAgIAAxkBAAI96mUV131wl3l46LR2j-aIUl8En_VKAALA2TEbtPBhSNPqHrCkNAWdAQADAgADeQADMAQ", "file_unique_id": "AQADwNkxG7TwYUh-", "file_size": 153840, "width": 1080, "height": 665} (/upload)
+|28.09.2023 20:02:58| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 20:02:58| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 20:02:58| Trefero Gugalpleh (5181177911): downloading file Sample (2).csv (/upload)
+|28.09.2023 20:02:58| Trefero Gugalpleh (5181177911): downloading file image (2).png (/upload)
+|28.09.2023 20:03:07| Trefero Gugalpleh (5181177911): used /show command
+|28.09.2023 20:03:07| Trefero Gugalpleh (5181177911): successfully started /show command
+|28.09.2023 20:03:11| Trefero Gugalpleh (5181177911): successfully sended Sample (2).csv file (/show)
+|28.09.2023 20:03:12| Trefero Gugalpleh (5181177911): successfully sended AQADwNkxG7TwYUh- file (/show)
+|28.09.2023 20:03:15| Trefero Gugalpleh (5181177911): successfully sended image (2).png file (/show)
+|28.09.2023 20:03:18| Trefero Gugalpleh (5181177911): successfully sended AQADwtkxG7TwYUh- file (/show)
+|28.09.2023 20:03:19| Trefero Gugalpleh (5181177911): used /end command
+|28.09.2023 20:03:19| Trefero Gugalpleh (5181177911): finished state GetFileState
+|28.09.2023 20:03:42| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 20:03:42| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 20:03:42| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|28.09.2023 20:03:42| Trefero Gugalpleh (5181177911): downloading file Sample (2).csv (/upload)
+|28.09.2023 20:03:42| Trefero Gugalpleh (5181177911): downloading file Копия 001(1).xlsx (/upload)
+|28.09.2023 20:03:42| Trefero Gugalpleh (5181177911): downloading file file_369.csv (/upload)
+|28.09.2023 20:03:50| Trefero Gugalpleh (5181177911): used /show command
+|28.09.2023 20:03:50| Trefero Gugalpleh (5181177911): successfully started /show command
+|28.09.2023 20:03:54| Trefero Gugalpleh (5181177911): successfully sended РљРѕРїРёСЏ 001(1).xlsx file (/show)
+|28.09.2023 20:03:56| Trefero Gugalpleh (5181177911): used /end command
+|28.09.2023 20:03:56| Trefero Gugalpleh (5181177911): finished state GetFileState
+|29.09.2023 08:53:34| Trefero Gugalpleh (5181177911): used /help command
+|29.09.2023 10:10:06| Trefero Gugalpleh (5181177911): used /help command
+|29.09.2023 11:29:31| Trefero Gugalpleh (5181177911): used /help command
+|29.09.2023 11:42:42| Trefero Gugalpleh (5181177911): used /help command
+|18.11.2023 20:42:30| Trefero Gugalpleh (5181177911): used /help command
+|18.11.2023 20:44:48| Trefero Gugalpleh (5181177911): user looks /info
+|18.11.2023 20:44:56| Trefero Gugalpleh (5181177911): used /help command
+|18.11.2023 20:45:00| Trefero Gugalpleh (5181177911): tried to use 'Sample_csv' option of /data command
+|18.11.2023 20:45:00| Trefero Gugalpleh (5181177911): started 'Sample_csv' option of /data command
+|18.11.2023 20:45:45| Trefero Gugalpleh (5181177911): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|18.11.2023 20:45:52| Trefero Gugalpleh (5181177911): POST request done. result: 500
+|18.11.2023 20:45:52| Trefero Gugalpleh (5181177911): succesfully ended 'Sample_csv' option of /data command
+|18.11.2023 20:45:52| Trefero Gugalpleh (5181177911): -1 access of basic command ('Sample_csv' option of /data command)
+|18.11.2023 20:48:07| Trefero Gugalpleh (5181177911): user looks /info
+|18.11.2023 20:48:07| Trefero Gugalpleh (5181177911): user looks /info
+|18.11.2023 20:58:42| Trefero Gugalpleh (5181177911): user looks /info
+|18.11.2023 20:58:53| Trefero Gugalpleh (5181177911): user looks /info
+|18.11.2023 20:59:05| Trefero Gugalpleh (5181177911): used /help command
+|18.11.2023 20:59:11| Trefero Gugalpleh (5181177911): tried to use 'Sample_csv' option of /data command
+|18.11.2023 20:59:11| Trefero Gugalpleh (5181177911): started 'Sample_csv' option of /data command
+|18.11.2023 20:59:18| Trefero Gugalpleh (5181177911): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|18.11.2023 20:59:22| Trefero Gugalpleh (5181177911): POST request done. result: 500
+|18.11.2023 20:59:22| Trefero Gugalpleh (5181177911):  ('Sample_csv' option of /data command)
+|18.11.2023 20:59:22| Trefero Gugalpleh (5181177911): asked to upload .csv once again because of  error ('Sample_csv' option of /data command)
+|18.11.2023 21:02:07| Trefero Gugalpleh (5181177911): tried to use 'Sample_csv' option of /data command
+|18.11.2023 21:02:07| Trefero Gugalpleh (5181177911): started 'Sample_csv' option of /data command
+|18.11.2023 21:02:12| Trefero Gugalpleh (5181177911): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|18.11.2023 21:02:33| Trefero Gugalpleh (5181177911): HTTPSConnectionPool(host='145.249.247.109', port=8443): Max retries exceeded with url: /BotAntragTest/hs/bots/Post (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017DAB1DFA10>, 'Connection to 145.249.247.109 timed out. (connect timeout=None)')) ('Sample_csv' option of /data command)
+|18.11.2023 21:02:33| Trefero Gugalpleh (5181177911): asked to upload .csv once again because of HTTPSConnectionPool(host='145.249.247.109', port=8443): Max retries exceeded with url: /BotAntragTest/hs/bots/Post (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017DAB1DFA10>, 'Connection to 145.249.247.109 timed out. (connect timeout=None)')) error ('Sample_csv' option of /data command)
+|18.11.2023 21:02:55| Trefero Gugalpleh (5181177911): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|18.11.2023 21:03:17| Trefero Gugalpleh (5181177911): HTTPSConnectionPool(host='145.249.247.109', port=8443): Max retries exceeded with url: /BotAntragTest/hs/bots/Post (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017DAB1F5310>, 'Connection to 145.249.247.109 timed out. (connect timeout=None)')) ('Sample_csv' option of /data command)
+|18.11.2023 21:03:38| Trefero Gugalpleh (5181177911): asked to upload .csv once again because of HTTPSConnectionPool(host='145.249.247.109', port=8443): Max retries exceeded with url: /BotAntragTest/hs/bots/Post (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017DAB1F5310>, 'Connection to 145.249.247.109 timed out. (connect timeout=None)')) error ('Sample_csv' option of /data command)
+|18.11.2023 21:03:49| Trefero Gugalpleh (5181177911): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|18.11.2023 21:03:52| Trefero Gugalpleh (5181177911): POST request done. result: 500
+|18.11.2023 21:05:03| Trefero Gugalpleh (5181177911): used /end command
+|18.11.2023 21:05:03| Trefero Gugalpleh (5181177911): finished state GetDatacsv
+|18.11.2023 21:05:05| Trefero Gugalpleh (5181177911): user looks /info
+|18.11.2023 21:07:12| Trefero Gugalpleh (5181177911): user looks /info
+|18.11.2023 21:07:19| Trefero Gugalpleh (5181177911): tried to use 'Sample_csv' option of /data command
+|18.11.2023 21:07:19| Trefero Gugalpleh (5181177911): started 'Sample_csv' option of /data command
+|18.11.2023 21:07:28| Trefero Gugalpleh (5181177911): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|18.11.2023 21:07:49| Trefero Gugalpleh (5181177911): HTTPSConnectionPool(host='145.249.247.109', port=8443): Max retries exceeded with url: /BotAntragTest/hs/bots/Post (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017DAB206790>, 'Connection to 145.249.247.109 timed out. (connect timeout=None)')) ('Sample_csv' option of /data command)
+|18.11.2023 21:07:49| Trefero Gugalpleh (5181177911): asked to upload .csv once again because of HTTPSConnectionPool(host='145.249.247.109', port=8443): Max retries exceeded with url: /BotAntragTest/hs/bots/Post (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017DAB206790>, 'Connection to 145.249.247.109 timed out. (connect timeout=None)')) error ('Sample_csv' option of /data command)
+|18.11.2023 21:08:00| Trefero Gugalpleh (5181177911): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|18.11.2023 21:08:03| Trefero Gugalpleh (5181177911): POST request done. result: 500
+|18.11.2023 21:14:55| Trefero Gugalpleh (5181177911): used /end command
+|18.11.2023 21:14:55| Trefero Gugalpleh (5181177911): finished state GetDatacsv
+|18.11.2023 21:14:58| Trefero Gugalpleh (5181177911): user looks /info
+|18.11.2023 21:15:03| Trefero Gugalpleh (5181177911): tried to use 'Sample_csv' option of /data command
+|18.11.2023 21:15:03| Trefero Gugalpleh (5181177911): started 'Sample_csv' option of /data command
+|18.11.2023 21:15:37| Trefero Gugalpleh (5181177911): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|18.11.2023 21:15:58| Trefero Gugalpleh (5181177911): HTTPSConnectionPool(host='145.249.247.109', port=8443): Max retries exceeded with url: /BotAntragTest/hs/bots/Post (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017DAB22A490>, 'Connection to 145.249.247.109 timed out. (connect timeout=None)')) ('Sample_csv' option of /data command)
+|18.11.2023 21:15:58| Trefero Gugalpleh (5181177911): asked to upload .csv once again because of HTTPSConnectionPool(host='145.249.247.109', port=8443): Max retries exceeded with url: /BotAntragTest/hs/bots/Post (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017DAB22A490>, 'Connection to 145.249.247.109 timed out. (connect timeout=None)')) error ('Sample_csv' option of /data command)
+|18.11.2023 21:18:18| Trefero Gugalpleh (5181177911): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|18.11.2023 21:18:39| Trefero Gugalpleh (5181177911): HTTPSConnectionPool(host='145.249.247.109', port=8443): Max retries exceeded with url: /BotAntragTest/hs/bots/Post (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017DAB22A1D0>, 'Connection to 145.249.247.109 timed out. (connect timeout=None)')) ('Sample_csv' option of /data command)
+|18.11.2023 21:18:41| Trefero Gugalpleh (5181177911): asked to upload .csv once again because of HTTPSConnectionPool(host='145.249.247.109', port=8443): Max retries exceeded with url: /BotAntragTest/hs/bots/Post (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017DAB22A1D0>, 'Connection to 145.249.247.109 timed out. (connect timeout=None)')) error ('Sample_csv' option of /data command)
+|18.11.2023 21:19:11| Trefero Gugalpleh (5181177911): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|18.11.2023 21:19:15| Trefero Gugalpleh (5181177911): POST request done. result: 500
+|18.11.2023 21:43:05| Trefero Gugalpleh (5181177911): used /help command
+|18.11.2023 21:43:14| Trefero Gugalpleh (5181177911): used /show command
+|18.11.2023 21:43:14| Trefero Gugalpleh (5181177911): successfully started /show command
+|18.11.2023 21:43:18| Trefero Gugalpleh (5181177911): used /end command
+|18.11.2023 21:43:18| Trefero Gugalpleh (5181177911): finished state GetFileState
+|18.11.2023 21:43:23| Trefero Gugalpleh (5181177911): user tries to send premium /request
+|18.11.2023 21:43:26| Trefero Gugalpleh (5181177911): POST request done. result: 500
+|19.11.2023 09:56:19| Trefero Gugalpleh (5181177911): user looks /info
+|19.11.2023 09:56:26| Trefero Gugalpleh (5181177911): used /start command
+|19.11.2023 09:56:29| Trefero Gugalpleh (5181177911): user changes language
+|19.11.2023 09:56:34| Trefero Gugalpleh (5181177911): tried to use 'Sample_csv' option of /data command
+|19.11.2023 09:56:34| Trefero Gugalpleh (5181177911): started 'Sample_csv' option of /data command
+|19.11.2023 09:56:44| Trefero Gugalpleh (5181177911): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|19.11.2023 09:56:49| Trefero Gugalpleh (5181177911): POST request done. result: 200
+|19.11.2023 09:56:49| Trefero Gugalpleh (5181177911): succesfully ended 'Sample_csv' option of /data command
+|19.11.2023 09:56:49| Trefero Gugalpleh (5181177911): -1 access of basic command ('Sample_csv' option of /data command)
+|19.11.2023 09:57:13| Trefero Gugalpleh (5181177911): user looks /info
+|19.11.2023 09:57:20| Trefero Gugalpleh (5181177911): user tries to send premium /request
+|19.11.2023 09:57:21| Trefero Gugalpleh (5181177911): POST request done. result: 500
+|19.11.2023 09:57:43| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 09:57:43| Trefero Gugalpleh (5181177911): finished state GetDatacsv
+|19.11.2023 09:57:45| Trefero Gugalpleh (5181177911): user tries to send premium /request
+|19.11.2023 09:57:46| Trefero Gugalpleh (5181177911): POST request done. result: 500
+|19.11.2023 10:01:38| Trefero Gugalpleh (5181177911): asked to upload .xlsx once again because of file type error ('Sample_csv' option of /data command)
+|19.11.2023 10:01:43| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 10:01:43| Trefero Gugalpleh (5181177911): finished state GetDatacsv
+|19.11.2023 10:01:49| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|19.11.2023 10:01:49| Trefero Gugalpleh (5181177911): downloading file Снимок экрана 2023-11-14 190408.png (/upload)
+|19.11.2023 10:01:55| Trefero Gugalpleh (5181177911): user tries to send premium /request
+|19.11.2023 10:01:55| Trefero Gugalpleh (5181177911): POST request done. result: 500
+|19.11.2023 10:05:57| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 10:05:57| Trefero Gugalpleh (5181177911): finished state GetDatacsv
+|19.11.2023 10:06:01| Trefero Gugalpleh (5181177911): user changes language
+|19.11.2023 10:06:04| Trefero Gugalpleh (5181177911): user tries to send premium /request
+|19.11.2023 10:06:05| Trefero Gugalpleh (5181177911): POST request done. result: 500
+|19.11.2023 10:24:15| Trefero Gugalpleh (5181177911): user tries to send premium /request
+|19.11.2023 10:24:25| Trefero Gugalpleh (5181177911): POST request done. result: 500
+|19.11.2023 10:30:03| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 10:30:03| Trefero Gugalpleh (5181177911): finished state GetDatacsv
+|19.11.2023 10:30:06| Trefero Gugalpleh (5181177911): used /delete command
+|19.11.2023 10:30:06| Trefero Gugalpleh (5181177911): successfully started /delete command
+|19.11.2023 10:30:11| Trefero Gugalpleh (5181177911): failed to delete file РЎРЅРёРјРѕРє СЌРєСЂР°РЅР° 2023-11-14 190408.png. No such file (/delete)
+|19.11.2023 10:30:13| Trefero Gugalpleh (5181177911): failed to delete file file_369.csv. No such file (/delete)
+|19.11.2023 10:30:14| Trefero Gugalpleh (5181177911): failed to delete file РљРѕРїРёСЏ 001(1).xlsx. No such file (/delete)
+|19.11.2023 10:30:15| Trefero Gugalpleh (5181177911): failed to delete file Sample (2).csv. No such file (/delete)
+|19.11.2023 10:30:16| Trefero Gugalpleh (5181177911): failed to delete file image (2).png. No such file (/delete)
+|19.11.2023 10:30:17| Trefero Gugalpleh (5181177911): failed to delete file Sample (2).csv. No such file (/delete)
+|19.11.2023 10:30:18| Trefero Gugalpleh (5181177911): failed to delete file AQADwNkxG7TwYUh-. No such file (/delete)
+|19.11.2023 10:30:19| Trefero Gugalpleh (5181177911): failed to delete file AQADwdkxG7TwYUh-. No such file (/delete)
+|19.11.2023 10:30:20| Trefero Gugalpleh (5181177911): failed to delete file AQADwtkxG7TwYUh-. No such file (/delete)
+|19.11.2023 10:30:22| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 10:30:22| Trefero Gugalpleh (5181177911): finished state GetFileState
+|19.11.2023 10:31:20| Trefero Gugalpleh (5181177911): used /delete command
+|19.11.2023 10:31:21| Trefero Gugalpleh (5181177911): successfully started /delete command
+|19.11.2023 10:31:22| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 10:31:22| Trefero Gugalpleh (5181177911): finished state GetFileState
+|19.11.2023 10:31:33| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|19.11.2023 10:31:33| Trefero Gugalpleh (5181177911): downloading file Sample.xlsx (/upload)
+|19.11.2023 10:31:38| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|19.11.2023 10:31:38| Trefero Gugalpleh (5181177911): downloading file HA.xlsx (/upload)
+|19.11.2023 10:31:44| Trefero Gugalpleh (5181177911): user tries to send premium /request
+|19.11.2023 10:34:30| Trefero Gugalpleh (5181177911): POST request done. result: 200
+|19.11.2023 10:34:30| Trefero Gugalpleh (5181177911): user successfully sended premium /request
+|19.11.2023 10:34:31| Trefero Gugalpleh (5181177911): user tries to send premium /request
+|19.11.2023 10:34:31| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 10:34:31| Trefero Gugalpleh (5181177911): user tries to send premium /request
+|19.11.2023 10:34:31| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 10:34:35| Trefero Gugalpleh (5181177911): POST request done. result: 200
+|19.11.2023 10:34:35| Trefero Gugalpleh (5181177911): user successfully sended premium /request
+|19.11.2023 10:34:36| Trefero Gugalpleh (5181177911): POST request done. result: 200
+|19.11.2023 10:34:36| Trefero Gugalpleh (5181177911): user successfully sended premium /request
+|19.11.2023 10:38:41| Trefero Gugalpleh (5181177911): used /show command
+|19.11.2023 10:38:41| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 10:38:41| Trefero Gugalpleh (5181177911): used /show command
+|19.11.2023 10:38:41| Trefero Gugalpleh (5181177911): successfully started /show command
+|19.11.2023 10:38:41| Trefero Gugalpleh (5181177911): successfully started /show command
+|19.11.2023 10:39:27| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 10:39:27| Trefero Gugalpleh (5181177911): finished state GetFileState
+|19.11.2023 10:39:35| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|19.11.2023 10:39:56| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 10:40:19| Trefero Gugalpleh (5181177911): used /show command
+|19.11.2023 10:40:19| Trefero Gugalpleh (5181177911): successfully started /show command
+|19.11.2023 10:40:21| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 10:40:21| Trefero Gugalpleh (5181177911): finished state GetFileState
+|19.11.2023 10:40:23| Trefero Gugalpleh (5181177911): used /upload command
+|19.11.2023 10:40:23| Trefero Gugalpleh (5181177911): failed to use /upload command (no permission)
+|19.11.2023 10:40:38| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|19.11.2023 10:40:38| Trefero Gugalpleh (5181177911): downloading file Sample.xlsx (/upload)
+|19.11.2023 10:40:42| Trefero Gugalpleh (5181177911): start to process users file (/upload)
+|19.11.2023 10:40:42| Trefero Gugalpleh (5181177911): downloading file HA.xlsx (/upload)
+|19.11.2023 10:40:46| Trefero Gugalpleh (5181177911): used /show command
+|19.11.2023 10:40:46| Trefero Gugalpleh (5181177911): successfully started /show command
+|19.11.2023 10:40:47| Trefero Gugalpleh (5181177911): used /end command
+|19.11.2023 10:40:47| Trefero Gugalpleh (5181177911): finished state GetFileState
+|19.11.2023 10:40:51| Trefero Gugalpleh (5181177911): user tries to send premium /request
+|19.11.2023 10:41:11| Trefero Gugalpleh (5181177911): POST request done. result: 200
+|19.11.2023 10:41:11| Trefero Gugalpleh (5181177911): user successfully sended premium /request
+|29.04.2024 18:41:03| Trefero Gugalpleh (5181177911): used /help command
+|29.04.2024 19:32:30| Trefero Gugalpleh (5181177911): used /help command
+|29.04.2024 19:33:03| Trefero Gugalpleh (5181177911): tried to use 'Sample_csv' option of /data command
+|29.04.2024 19:33:04| Trefero Gugalpleh (5181177911): started 'Sample_csv' option of /data command
+|29.04.2024 19:33:07| Trefero Gugalpleh (5181177911): used /end command
+|29.04.2024 19:33:07| Trefero Gugalpleh (5181177911): finished state GetDatacsv
+|29.04.2024 19:33:14| Trefero Gugalpleh (5181177911): user looks /info
+|29.04.2024 19:33:57| Trefero Gugalpleh (5181177911): used /help command
+|29.04.2024 19:35:32| Trefero Gugalpleh (5181177911): used /pay command
+|29.04.2024 19:36:17| Trefero Gugalpleh (5181177911): Successful payment (basic)
+|29.04.2024 19:36:17| Trefero Gugalpleh (5181177911): +2 access to commands (basic)
+|29.04.2024 19:36:17| Trefero Gugalpleh (5181177911): Asked if user want to change email 'uginebor69@gmail.com' after payment
+|29.04.2024 19:36:27| Trefero Gugalpleh (5181177911): user doesnt wants to change mail (mail)
+|29.04.2024 19:56:53| Trefero Gugalpleh (5181177911): used /end command
+|29.04.2024 19:56:59| Trefero Gugalpleh (5181177911): used /end command
+|29.04.2024 19:57:04| Trefero Gugalpleh (5181177911): used /end command
+|29.04.2024 19:57:04| Trefero Gugalpleh (5181177911): used /end command
+|29.04.2024 19:57:05| Trefero Gugalpleh (5181177911): used /end command
+|29.04.2024 19:57:05| Trefero Gugalpleh (5181177911): used /end command
+|29.04.2024 19:57:11| Trefero Gugalpleh (5181177911): used /help command
+|02.05.2024 14:06:26| Trefero Gugalpleh (5181177911): used /help command
+|02.05.2024 14:06:31| Trefero Gugalpleh (5181177911): used /payplus command
+|02.05.2024 14:06:52| Trefero Gugalpleh (5181177911): Successful payment (premium)
+|02.05.2024 14:06:52| Trefero Gugalpleh (5181177911): +1 access to commands (premium)
+|02.05.2024 14:06:52| Trefero Gugalpleh (5181177911): Asked if user want to change email 'uginebor69@gmail.com' after payment
+|02.05.2024 14:06:58| Trefero Gugalpleh (5181177911): user doesnt wants to change mail (mail)
+|02.05.2024 14:07:12| Trefero Gugalpleh (5181177911): used /pay command
+|02.05.2024 14:07:38| Trefero Gugalpleh (5181177911): Successful payment (basic)
+|02.05.2024 14:07:38| Trefero Gugalpleh (5181177911): +2 access to commands (basic)
+|02.05.2024 14:07:38| Trefero Gugalpleh (5181177911): Asked if user want to change email 'uginebor69@gmail.com' after payment
+|02.05.2024 14:07:44| Trefero Gugalpleh (5181177911): user doesnt wants to change mail (mail)
+|02.05.2024 14:07:56| Trefero Gugalpleh (5181177911): used /help command
+|02.05.2024 14:08:26| Trefero Gugalpleh (5181177911): used /start command
+|02.05.2024 14:08:29| Trefero Gugalpleh (5181177911): user changes language
+|02.05.2024 14:08:46| Trefero Gugalpleh (5181177911): used /pay command
+|02.05.2024 14:09:09| Trefero Gugalpleh (5181177911): Successful payment (basic)
+|02.05.2024 14:09:09| Trefero Gugalpleh (5181177911): Added new user to (basic)
+|02.05.2024 14:09:09| Trefero Gugalpleh (5181177911): Asked if user want to change email 'uginebor69@gmail.com' after payment
+|02.05.2024 14:09:26| Trefero Gugalpleh (5181177911): user doesnt wants to change mail (mail)
+|02.05.2024 14:09:32| Trefero Gugalpleh (5181177911): tried to use 'Sample_csv' option of /data command
+|02.05.2024 14:09:32| Trefero Gugalpleh (5181177911): started 'Sample_csv' option of /data command
+|02.05.2024 14:09:34| Trefero Gugalpleh (5181177911): used /end command
+|02.05.2024 14:09:34| Trefero Gugalpleh (5181177911): finished state GetDatacsv
+|02.05.2024 14:11:50| Trefero Gugalpleh (5181177911): used /pay command
+|02.05.2024 14:12:31| Trefero Gugalpleh (5181177911): Successful payment (basic)
+|02.05.2024 14:12:31| Trefero Gugalpleh (5181177911): +2 access to commands (basic)
+|02.05.2024 14:12:31| Trefero Gugalpleh (5181177911): Asked if user want to change email 'uginebor69@gmail.com' after payment
+|02.05.2024 14:12:36| Trefero Gugalpleh (5181177911): user doesnt wants to change mail (mail)
+|03.05.2024 13:26:17| Trefero Gugalpleh (5181177911): used /help command
+|03.05.2024 13:51:03| Trefero Gugalpleh (5181177911): used /start command
+|03.05.2024 13:51:09| Trefero Gugalpleh (5181177911): user changes language
+|03.05.2024 13:59:18| Trefero Gugalpleh (5181177911): used /help command
+|03.05.2024 14:00:07| Trefero Gugalpleh (5181177911): used /start command
+|03.05.2024 14:00:09| Trefero Gugalpleh (5181177911): user changes language
+|03.05.2024 14:04:05| Trefero Gugalpleh (5181177911): user looks /info
+|03.05.2024 14:04:07| Trefero Gugalpleh (5181177911): tried to use free /free command
+|03.05.2024 14:04:24| Trefero Gugalpleh (5181177911): try to add uginebor69@gmail.com as (mail)
+|03.05.2024 14:04:24| Trefero Gugalpleh (5181177911): uginebor69@gmail.com can be used as (mail)
+|03.05.2024 14:14:34| Trefero Gugalpleh (5181177911): used /start command
+|03.05.2024 14:14:54| Trefero Gugalpleh (5181177911): user changes language
+|03.05.2024 14:15:37| Trefero Gugalpleh (5181177911): used /webapp command
+|03.05.2024 14:15:37| Trefero Gugalpleh (5181177911): used /webapp command
+|03.05.2024 15:00:36| Trefero Gugalpleh (5181177911): used /start command
+|03.05.2024 15:00:39| Trefero Gugalpleh (5181177911): user changes language
+|03.05.2024 15:00:47| Trefero Gugalpleh (5181177911): used /free command
+|03.05.2024 15:01:31| Trefero Gugalpleh (5181177911): used /free command
+|03.05.2024 15:03:34| Trefero Gugalpleh (5181177911): used /free command
+|03.05.2024 15:03:35| Trefero Gugalpleh (5181177911): used /free command
+|03.05.2024 15:04:05| Trefero Gugalpleh (5181177911): user looks /info
+|03.05.2024 15:05:24| Trefero Gugalpleh (5181177911): used /basic command
+|03.05.2024 15:11:24| Trefero Gugalpleh (5181177911): used /start command
+|03.05.2024 15:11:24| Trefero Gugalpleh (5181177911): used /start command
+|03.05.2024 15:11:33| Trefero Gugalpleh (5181177911): user changes language
+|03.05.2024 15:11:33| Trefero Gugalpleh (5181177911): user changes language
+|03.05.2024 15:11:44| Trefero Gugalpleh (5181177911): used /basic command
+|03.05.2024 15:12:03| Trefero Gugalpleh (5181177911): used /help command
+|04.05.2024 13:32:58| Trefero Gugalpleh (5181177911): used /help command
+|06.05.2024 06:02:53| Trefero Gugalpleh (5181177911): used /help command
+|06.05.2024 11:59:04| Trefero Gugalpleh (5181177911): used /help command
+|06.05.2024 11:59:04| Trefero Gugalpleh (5181177911): used /help command
+|06.05.2024 19:59:37| Trefero Gugalpleh (5181177911): used /webapp command

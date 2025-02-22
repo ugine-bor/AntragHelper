@@ -1,0 +1,304 @@
+|08.09.2023 10:01:05| Igor IT (1449983348): added new user
+|08.09.2023 10:01:05| Igor IT (1449983348): used /start command
+|08.09.2023 10:01:07| Igor IT (1449983348): user changes language
+|08.09.2023 10:01:09| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|08.09.2023 10:01:09| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|08.09.2023 10:01:13| Igor IT (1449983348): succesfully uploaded .csv file using 'Sample_csv' option of /data command
+|08.09.2023 10:01:13| Igor IT (1449983348): [Errno 2] No such file or directory: 'UserFiles/U_1449983348/DataNotToShow/U_mail_1449983348.json' ('Sample_csv' option of /data command)
+|08.09.2023 10:01:13| Igor IT (1449983348): asked to upload .csv once again because of [Errno 2] No such file or directory: 'UserFiles/U_1449983348/DataNotToShow/U_mail_1449983348.json' error ('Sample_csv' option of /data command)
+|08.09.2023 10:10:11| Igor IT (1449983348): used /end command
+|08.09.2023 10:10:11| Igor IT (1449983348): finished state GetDatacsv
+|08.09.2023 10:10:16| Igor IT (1449983348): used /start command
+|08.09.2023 10:10:18| Igor IT (1449983348): user changes language
+|08.09.2023 10:10:24| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|08.09.2023 10:10:24| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|08.09.2023 10:10:42| Igor IT (1449983348): used /end command
+|08.09.2023 10:10:42| Igor IT (1449983348): finished state GetDatacsv
+|08.09.2023 10:10:46| Igor IT (1449983348): used /start command
+|08.09.2023 10:10:48| Igor IT (1449983348): user changes language
+|08.09.2023 10:11:01| Igor IT (1449983348): try to add alig_1691@mail.ru as (mail)
+|08.09.2023 10:11:01| Igor IT (1449983348): alig_1691@mail.ru can be used as (mail)
+|08.09.2023 10:11:03| Igor IT (1449983348): user confirmed 'Да' (mail)
+|08.09.2023 10:11:05| Igor IT (1449983348): started /free command after email verification
+|08.09.2023 10:11:09| Igor IT (1449983348): succesfully uploaded .csv file using 'Sample_csv' option of /free command
+|08.09.2023 10:11:30| Igor IT (1449983348): Can't parse entities: unsupported start tag "urllib3.connection.httpsconnection" at byte offset 199 ('Sample_csv' option of /free command)
+|08.09.2023 10:11:30| Igor IT (1449983348): asked to upload .csv once again because of Can't parse entities: unsupported start tag "urllib3.connection.httpsconnection" at byte offset 199 error ('Sample_csv' option of /free command)
+|11.09.2023 16:53:13| Igor IT (1449983348): used /start command
+|11.09.2023 16:53:14| Igor IT (1449983348): user changes language
+|11.09.2023 16:53:18| Igor IT (1449983348): used /payplus command
+|11.09.2023 16:53:28| Igor IT (1449983348): Successful payment (premium)
+|11.09.2023 16:53:28| Igor IT (1449983348): Added new user to (premium)
+|11.09.2023 16:53:28| Igor IT (1449983348): Asked if user want to change email 'alig_1691@mail.ru' after payment
+|11.09.2023 16:53:35| Igor IT (1449983348): user doesnt wants to change mail (mail)
+|11.09.2023 16:53:38| Igor IT (1449983348): used /upload command
+|11.09.2023 16:53:43| Igor IT (1449983348): user tries to send premium /request
+|11.09.2023 16:53:43| Igor IT (1449983348): POST request done. result: 200
+|11.09.2023 16:53:43| Igor IT (1449983348): user successfully sended premium /request
+|11.09.2023 16:56:39| Igor IT (1449983348): user tries to send premium /request
+|11.09.2023 16:56:39| Igor IT (1449983348): user failed send premium request (no permission) (/request)
+|11.09.2023 16:56:41| Igor IT (1449983348): used /payplus command
+|11.09.2023 16:56:46| Igor IT (1449983348): Successful payment (premium)
+|11.09.2023 16:56:47| Igor IT (1449983348): +1 access to commands (premium)
+|11.09.2023 16:56:47| Igor IT (1449983348): Asked if user want to change email 'alig_1691@mail.ru' after payment
+|11.09.2023 16:56:48| Igor IT (1449983348): user doesnt wants to change mail (mail)
+|11.09.2023 16:56:51| Igor IT (1449983348): used /upload command
+|11.09.2023 16:58:02| Igor IT (1449983348): user tries to send premium /request
+|11.09.2023 16:58:35| Igor IT (1449983348): POST request done. result: 200
+|11.09.2023 16:58:35| Igor IT (1449983348): user successfully sended premium /request
+|11.09.2023 16:58:43| Igor IT (1449983348): used /upload command
+|11.09.2023 16:58:43| Igor IT (1449983348): failed to use /upload command (no permission)
+|11.09.2023 16:58:45| Igor IT (1449983348): used /payplus command
+|11.09.2023 16:58:50| Igor IT (1449983348): Successful payment (premium)
+|11.09.2023 16:58:50| Igor IT (1449983348): +1 access to commands (premium)
+|11.09.2023 16:58:50| Igor IT (1449983348): Asked if user want to change email 'alig_1691@mail.ru' after payment
+|11.09.2023 16:58:52| Igor IT (1449983348): user doesnt wants to change mail (mail)
+|11.09.2023 16:58:54| Igor IT (1449983348): used /upload command
+|11.09.2023 16:59:23| Igor IT (1449983348): start to process users file (/upload)
+|11.09.2023 16:59:23| Igor IT (1449983348): start to process users file (/upload)
+|11.09.2023 16:59:24| Igor IT (1449983348): downloading file 123.epf (/upload)
+|11.09.2023 16:59:24| Igor IT (1449983348): downloading file 333.txt (/upload)
+|11.09.2023 16:59:28| Igor IT (1449983348): user tries to send premium /request
+|11.09.2023 17:00:11| Igor IT (1449983348): POST request done. result: 200
+|11.09.2023 17:00:11| Igor IT (1449983348): user successfully sended premium /request
+|11.09.2023 17:02:32| Igor IT (1449983348): used /upload command
+|11.09.2023 17:02:32| Igor IT (1449983348): failed to use /upload command (no permission)
+|11.09.2023 17:02:33| Igor IT (1449983348): used /payplus command
+|11.09.2023 17:02:38| Igor IT (1449983348): Successful payment (premium)
+|11.09.2023 17:02:39| Igor IT (1449983348): +1 access to commands (premium)
+|11.09.2023 17:02:39| Igor IT (1449983348): Asked if user want to change email 'alig_1691@mail.ru' after payment
+|11.09.2023 17:02:40| Igor IT (1449983348): user doesnt wants to change mail (mail)
+|11.09.2023 17:02:43| Igor IT (1449983348): used /upload command
+|11.09.2023 17:03:01| Igor IT (1449983348): start to process users file (/upload)
+|11.09.2023 17:03:01| Igor IT (1449983348): start to process users file (/upload)
+|11.09.2023 17:03:01| Igor IT (1449983348): downloading file Снимок экрана 2023-08-28 080826.png (/upload)
+|11.09.2023 17:03:02| Igor IT (1449983348): downloading file 123.q1c (/upload)
+|11.09.2023 17:03:05| Igor IT (1449983348): user tries to send premium /request
+|11.09.2023 17:04:09| Igor IT (1449983348): POST request done. result: 200
+|11.09.2023 17:04:09| Igor IT (1449983348): user successfully sended premium /request
+|11.09.2023 17:15:37| Igor IT (1449983348): used /show command
+|11.09.2023 17:15:37| Igor IT (1449983348): successfully started /show command
+|11.09.2023 17:15:42| Igor IT (1449983348): failed to send file [Errno 2] No such file or directory: 'UserFiles/U_1449983348/DataVisible//delete' (/show)
+|11.09.2023 17:15:47| Igor IT (1449983348): used /end command
+|11.09.2023 17:15:47| Igor IT (1449983348): finished state GetFileState
+|11.09.2023 17:15:53| Igor IT (1449983348): used /show command
+|11.09.2023 17:15:53| Igor IT (1449983348): successfully started /show command
+|11.09.2023 17:15:56| Igor IT (1449983348): successfully sended 123.epf file (/show)
+|11.09.2023 17:15:59| Igor IT (1449983348): failed to send file [Errno 2] No such file or directory: 'UserFiles/U_1449983348/DataVisible//delete' (/show)
+|11.09.2023 17:16:28| Igor IT (1449983348): successfully sended 333.txt file (/show)
+|28.09.2023 15:26:16| Igor IT (1449983348): used /end command
+|28.09.2023 15:26:23| Igor IT (1449983348): used /start command
+|28.09.2023 15:26:25| Igor IT (1449983348): user changes language
+|28.09.2023 15:28:55| Igor IT (1449983348): used /payplus command
+|28.09.2023 15:28:55| Igor IT (1449983348): used /start command
+|28.09.2023 15:29:16| Igor IT (1449983348): used /start command
+|28.09.2023 15:29:16| Igor IT (1449983348): used /start command
+|28.09.2023 15:29:20| Igor IT (1449983348): user changes language
+|28.09.2023 15:29:31| Igor IT (1449983348): used /pay command
+|28.09.2023 15:29:50| Igor IT (1449983348): Successful payment (basic)
+|28.09.2023 15:29:50| Igor IT (1449983348): Added new user to (basic)
+|28.09.2023 15:29:50| Igor IT (1449983348): Asked if user want to change email 'alig_1691@mail.ru' after payment
+|28.09.2023 15:30:11| Igor IT (1449983348): user doesnt wants to change mail (mail)
+|28.09.2023 15:30:54| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 15:30:54| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 15:31:15| Igor IT (1449983348): succesfully uploaded .csv file using 'Sample_csv' option of /data command
+|28.09.2023 15:31:58| Igor IT (1449983348): Can't parse entities: unsupported start tag "urllib3.connection.httpsconnection" at byte offset 199 ('Sample_csv' option of /data command)
+|28.09.2023 15:31:58| Igor IT (1449983348): asked to upload .csv once again because of Can't parse entities: unsupported start tag "urllib3.connection.httpsconnection" at byte offset 199 error ('Sample_csv' option of /data command)
+|28.09.2023 15:32:54| Igor IT (1449983348): succesfully uploaded .csv file using 'Sample_csv' option of /data command
+|28.09.2023 15:33:37| Igor IT (1449983348): Can't parse entities: unsupported start tag "urllib3.connection.httpsconnection" at byte offset 199 ('Sample_csv' option of /data command)
+|28.09.2023 15:33:37| Igor IT (1449983348): asked to upload .csv once again because of Can't parse entities: unsupported start tag "urllib3.connection.httpsconnection" at byte offset 199 error ('Sample_csv' option of /data command)
+|28.09.2023 15:50:23| Igor IT (1449983348): succesfully uploaded .csv file using 'Sample_csv' option of /data command
+|28.09.2023 15:51:06| Igor IT (1449983348): Can't parse entities: unsupported start tag "urllib3.connection.httpsconnection" at byte offset 199 ('Sample_csv' option of /data command)
+|28.09.2023 15:51:06| Igor IT (1449983348): asked to upload .csv once again because of Can't parse entities: unsupported start tag "urllib3.connection.httpsconnection" at byte offset 199 error ('Sample_csv' option of /data command)
+|28.09.2023 16:00:35| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 16:00:35| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 16:00:44| Igor IT (1449983348): succesfully uploaded .csv file using 'Sample_csv' option of /data command
+|28.09.2023 16:04:59| Igor IT (1449983348): Aiohttp client throws an error: ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed] ('Sample_csv' option of /data command)
+|28.09.2023 17:21:24| Igor IT (1449983348): used /start command
+|28.09.2023 17:21:25| Igor IT (1449983348): user changes language
+|28.09.2023 17:21:28| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 17:21:28| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 17:21:38| Igor IT (1449983348): asked to upload .csv once again because of file type error ('Sample_csv' option of /data command)
+|28.09.2023 17:35:05| Igor IT (1449983348): used /start command
+|28.09.2023 17:35:06| Igor IT (1449983348): user changes language
+|28.09.2023 17:35:08| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 17:35:09| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 17:35:15| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|28.09.2023 17:35:57| Igor IT (1449983348): POST request done. result: 200
+|28.09.2023 17:35:57| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|28.09.2023 17:35:57| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|28.09.2023 17:36:36| Igor IT (1449983348): used /end command
+|28.09.2023 17:36:38| Igor IT (1449983348): used /start command
+|28.09.2023 17:36:40| Igor IT (1449983348): user changes language
+|28.09.2023 17:36:42| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 17:36:42| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 17:36:45| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|28.09.2023 17:37:43| Igor IT (1449983348): POST request done. result: 500
+|28.09.2023 17:37:43| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|28.09.2023 17:37:43| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|28.09.2023 17:37:57| Igor IT (1449983348): used /end command
+|28.09.2023 17:38:00| Igor IT (1449983348): used /start command
+|28.09.2023 17:38:01| Igor IT (1449983348): user changes language
+|28.09.2023 17:38:03| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 17:38:03| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 17:38:09| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|28.09.2023 17:43:29| Igor IT (1449983348): POST request done. result: 500
+|28.09.2023 17:43:29| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|28.09.2023 17:43:29| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|28.09.2023 17:43:45| Igor IT (1449983348): used /end command
+|28.09.2023 17:43:46| Igor IT (1449983348): used /start command
+|28.09.2023 17:43:47| Igor IT (1449983348): user changes language
+|28.09.2023 17:43:49| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 17:43:50| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 17:43:54| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|28.09.2023 17:45:26| Igor IT (1449983348): POST request done. result: 500
+|28.09.2023 17:45:26| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|28.09.2023 17:45:26| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|28.09.2023 17:45:40| Igor IT (1449983348): used /end command
+|28.09.2023 17:45:41| Igor IT (1449983348): used /start command
+|28.09.2023 17:45:43| Igor IT (1449983348): user changes language
+|28.09.2023 17:45:45| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 17:45:45| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 17:45:49| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|28.09.2023 17:49:56| Igor IT (1449983348): POST request done. result: 500
+|28.09.2023 17:49:56| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|28.09.2023 17:49:56| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|28.09.2023 17:51:55| Igor IT (1449983348): used /end command
+|28.09.2023 17:51:58| Igor IT (1449983348): used /start command
+|28.09.2023 17:51:59| Igor IT (1449983348): user changes language
+|28.09.2023 17:52:01| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 17:52:01| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 17:52:05| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|28.09.2023 17:56:25| Igor IT (1449983348): POST request done. result: 200
+|28.09.2023 17:56:25| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|28.09.2023 17:56:25| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|28.09.2023 17:56:40| Igor IT (1449983348): used /end command
+|28.09.2023 17:56:41| Igor IT (1449983348): used /start command
+|28.09.2023 17:56:42| Igor IT (1449983348): user changes language
+|28.09.2023 17:56:43| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 17:56:44| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 17:56:46| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|28.09.2023 17:59:31| Igor IT (1449983348): POST request done. result: 200
+|28.09.2023 17:59:31| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|28.09.2023 17:59:31| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|28.09.2023 18:11:43| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 18:11:43| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 18:11:48| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|28.09.2023 18:12:00| Igor IT (1449983348): POST request done. result: 200
+|28.09.2023 18:12:00| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|28.09.2023 18:12:00| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|28.09.2023 18:14:31| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 18:14:31| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 18:14:35| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|28.09.2023 18:19:51| Igor IT (1449983348): POST request done. result: 200
+|28.09.2023 18:19:51| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|28.09.2023 18:19:51| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|28.09.2023 18:20:21| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 18:20:21| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 18:20:25| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|28.09.2023 18:20:33| Igor IT (1449983348): POST request done. result: 200
+|28.09.2023 18:20:33| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|28.09.2023 18:20:33| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|28.09.2023 19:10:20| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|28.09.2023 19:10:20| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|28.09.2023 19:10:26| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|28.09.2023 19:10:35| Igor IT (1449983348): POST request done. result: 200
+|28.09.2023 19:10:35| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|28.09.2023 19:10:35| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|29.09.2023 10:10:12| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|29.09.2023 10:10:12| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|29.09.2023 10:10:17| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|29.09.2023 10:10:24| Igor IT (1449983348): POST request done. result: 200
+|29.09.2023 10:10:24| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|29.09.2023 10:10:24| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|29.09.2023 10:13:35| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|29.09.2023 10:13:35| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|29.09.2023 10:13:37| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|29.09.2023 10:13:44| Igor IT (1449983348): POST request done. result: 200
+|29.09.2023 10:13:44| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|29.09.2023 10:13:44| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|29.09.2023 10:14:10| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|29.09.2023 10:14:10| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|29.09.2023 10:14:13| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|29.09.2023 10:14:20| Igor IT (1449983348): POST request done. result: 200
+|29.09.2023 10:14:20| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|29.09.2023 10:14:20| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|29.09.2023 10:15:13| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|29.09.2023 10:15:13| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|29.09.2023 10:15:16| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|29.09.2023 10:17:01| Igor IT (1449983348): POST request done. result: 200
+|29.09.2023 10:17:01| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|29.09.2023 10:17:01| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|29.09.2023 10:17:13| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|29.09.2023 10:17:13| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|29.09.2023 10:17:16| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|29.09.2023 10:17:26| Igor IT (1449983348): POST request done. result: 200
+|29.09.2023 10:17:26| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|29.09.2023 10:17:26| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|29.09.2023 10:18:41| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|29.09.2023 10:18:41| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|29.09.2023 10:18:43| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|29.09.2023 10:18:53| Igor IT (1449983348): POST request done. result: 200
+|29.09.2023 10:18:53| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|29.09.2023 10:18:53| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|29.09.2023 10:19:28| Igor IT (1449983348): tried to use 'Sample_csv' option of /data command
+|29.09.2023 10:19:28| Igor IT (1449983348): started 'Sample_csv' option of /data command
+|29.09.2023 10:19:30| Igor IT (1449983348): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|29.09.2023 10:19:38| Igor IT (1449983348): POST request done. result: 200
+|29.09.2023 10:19:38| Igor IT (1449983348): succesfully ended 'Sample_csv' option of /data command
+|29.09.2023 10:19:38| Igor IT (1449983348): -1 access of basic command ('Sample_csv' option of /data command)
+|19.11.2023 10:05:11| Igor IT (1449983348): used /payplus command
+|19.11.2023 10:05:32| Igor IT (1449983348): Successful payment (premium)
+|19.11.2023 10:05:33| Igor IT (1449983348): Added new user to (premium)
+|19.11.2023 10:05:33| Igor IT (1449983348): Asked if user want to change email 'alig_1691@mail.ru' after payment
+|19.11.2023 10:05:43| Igor IT (1449983348): user doesnt wants to change mail (mail)
+|19.11.2023 10:05:58| Igor IT (1449983348): used /upload command
+|19.11.2023 10:06:24| Igor IT (1449983348): start to process users file (/upload)
+|19.11.2023 10:06:24| Igor IT (1449983348): downloading file {"file_id": "AgACAgIAAxkBAAI_w2VZ3h97dQagxHpz6tJQaP-V16xNAAJQ0TEbplDQSuBnn-dEm5q7AQADAgADeQADMwQ", "file_unique_id": "AQADUNExG6ZQ0Ep-", "file_size": 100455, "width": 1228, "height": 665} (/upload)
+|19.11.2023 10:06:28| Igor IT (1449983348): user tries to send premium /request
+|19.11.2023 10:06:29| Igor IT (1449983348): POST request done. result: 500
+|19.11.2023 10:24:14| Igor IT (1449983348): used /start command
+|19.11.2023 10:24:25| Igor IT (1449983348): user changes language
+|19.11.2023 10:24:34| Igor IT (1449983348): used /payplus command
+|19.11.2023 10:24:46| Igor IT (1449983348): Successful payment (premium)
+|19.11.2023 10:24:46| Igor IT (1449983348): +1 access to commands (premium)
+|19.11.2023 10:24:46| Igor IT (1449983348): Asked if user want to change email 'alig_1691@mail.ru' after payment
+|19.11.2023 10:24:50| Igor IT (1449983348): user doesnt wants to change mail (mail)
+|19.11.2023 10:24:55| Igor IT (1449983348): used /upload command
+|19.11.2023 10:25:08| Igor IT (1449983348): start to process users file (/upload)
+|19.11.2023 10:25:08| Igor IT (1449983348): downloading file {"file_id": "AgACAgIAAxkBAAI_6GVZ4oO36ZG-cipCD4XPDz41rnFnAAJa0TEbplDQSsVUQZh_qy-wAQADAgADeQADMwQ", "file_unique_id": "AQADWtExG6ZQ0Ep-", "file_size": 102571, "width": 814, "height": 1072} (/upload)
+|19.11.2023 10:25:23| Igor IT (1449983348): start to process users file (/upload)
+|19.11.2023 10:25:24| Igor IT (1449983348): downloading file Помеченный на удаление доки.txt (/upload)
+|19.11.2023 10:25:28| Igor IT (1449983348): user tries to send premium /request
+|19.11.2023 10:29:58| Igor IT (1449983348): POST request done. result: 500
+|19.11.2023 10:31:00| Igor IT (1449983348): used /end command
+|19.11.2023 10:31:00| Igor IT (1449983348): finished state GetDatacsv
+|19.11.2023 10:31:05| Igor IT (1449983348): used /start command
+|19.11.2023 10:31:07| Igor IT (1449983348): user changes language
+|19.11.2023 10:34:35| Igor IT (1449983348): used /start command
+|19.11.2023 10:35:12| Igor IT (1449983348): user changes language
+|19.11.2023 10:35:14| Igor IT (1449983348): used /payplus command
+|19.11.2023 10:35:24| Igor IT (1449983348): Successful payment (premium)
+|19.11.2023 10:35:25| Igor IT (1449983348): +1 access to commands (premium)
+|19.11.2023 10:35:25| Igor IT (1449983348): Asked if user want to change email 'alig_1691@mail.ru' after payment
+|19.11.2023 10:35:30| Igor IT (1449983348): user doesnt wants to change mail (mail)
+|19.11.2023 10:35:32| Igor IT (1449983348): used /upload command
+|19.11.2023 10:35:37| Igor IT (1449983348): start to process users file (/upload)
+|19.11.2023 10:35:37| Igor IT (1449983348): downloading file Помеченный на удаление доки.txt (/upload)
+|19.11.2023 10:35:43| Igor IT (1449983348): start to process users file (/upload)
+|19.11.2023 10:35:43| Igor IT (1449983348): downloading file {"file_id": "AgACAgIAAxkBAAJAPGVZ5P-VTpEKU5i90pfcrBfrJvCXAAJa0TEbplDQSsVUQZh_qy-wAQADAgADeQADMwQ", "file_unique_id": "AQADWtExG6ZQ0Ep-", "file_size": 102571, "width": 814, "height": 1072} (/upload)
+|19.11.2023 10:35:47| Igor IT (1449983348): user tries to send premium /request
+|19.11.2023 10:38:41| Igor IT (1449983348): POST request done. result: 500
+|19.11.2023 10:40:04| Igor IT (1449983348): used /end command
+|19.11.2023 10:40:04| Igor IT (1449983348): finished state GetDatacsv
+|19.11.2023 10:40:38| Igor IT (1449983348): used /start command
+|19.11.2023 10:40:40| Igor IT (1449983348): user changes language
+|19.11.2023 10:40:43| Igor IT (1449983348): used /payplus command
+|19.11.2023 10:41:14| Igor IT (1449983348): Successful payment (premium)
+|19.11.2023 10:41:14| Igor IT (1449983348): +1 access to commands (premium)
+|19.11.2023 10:41:14| Igor IT (1449983348): Asked if user want to change email 'alig_1691@mail.ru' after payment
+|19.11.2023 10:41:50| Igor IT (1449983348): user doesnt wants to change mail (mail)
+|19.11.2023 10:41:52| Igor IT (1449983348): used /upload command
+|19.11.2023 10:43:06| Igor IT (1449983348): start to process users file (/upload)
+|19.11.2023 10:43:06| Igor IT (1449983348): downloading file 12345.txt (/upload)
+|19.11.2023 10:43:11| Igor IT (1449983348): user tries to send premium /request
+|19.11.2023 10:43:39| Igor IT (1449983348): POST request done. result: 500

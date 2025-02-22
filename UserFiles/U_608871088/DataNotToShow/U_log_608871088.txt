@@ -1,0 +1,140 @@
+|28.09.2023 18:58:28| Alex Bor (608871088): used /start command
+|28.09.2023 18:58:29| Alex Bor (608871088): user changes language
+|28.09.2023 19:01:48| Alex Bor (608871088): tried to use free /free command
+|28.09.2023 19:01:58| Alex Bor (608871088): try to add alexbor@mail.de as (mail)
+|28.09.2023 19:01:58| Alex Bor (608871088): alexbor@mail.de can be used as (mail)
+|28.09.2023 19:02:00| Alex Bor (608871088): user confirmed 'Да' (mail)
+|28.09.2023 19:02:05| Alex Bor (608871088): started /free command after email verification
+|28.09.2023 19:02:25| Alex Bor (608871088): succesfully uploaded .xlsx file using 'Sample_xlsx' option of /free command
+|28.09.2023 19:02:30| Alex Bor (608871088): POST request done. result: 200
+|28.09.2023 19:02:31| Alex Bor (608871088): succesfully ended 'Sample_csv' option of /free command
+|28.09.2023 19:12:54| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:13:00| Alex Bor (608871088): tried to use free /free command
+|28.09.2023 19:13:10| Alex Bor (608871088): try to add alexbor@mail.de as (mail)
+|28.09.2023 19:13:10| Alex Bor (608871088): alexbor@mail.de can be used as (mail)
+|28.09.2023 19:13:12| Alex Bor (608871088): user confirmed 'Да' (mail)
+|28.09.2023 19:13:15| Alex Bor (608871088): started /free command after email verification
+|28.09.2023 19:13:23| Alex Bor (608871088): succesfully uploaded .xlsx file using 'Sample_xlsx' option of /free command
+|28.09.2023 19:13:27| Alex Bor (608871088): POST request done. result: 200
+|28.09.2023 19:13:28| Alex Bor (608871088): succesfully ended 'Sample_csv' option of /free command
+|28.09.2023 19:20:52| Alex Bor (608871088): used /pay command
+|28.09.2023 19:21:31| Alex Bor (608871088): Successful payment (basic)
+|28.09.2023 19:21:31| Alex Bor (608871088): Added new user to (basic)
+|28.09.2023 19:21:31| Alex Bor (608871088): Asked if user want to change email 'alexbor@mail.de' after payment
+|28.09.2023 19:21:39| Alex Bor (608871088): user doesnt wants to change mail (mail)
+|28.09.2023 19:21:52| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:22:01| Alex Bor (608871088): tried to use 'Sample_csv' option of /data command
+|28.09.2023 19:22:01| Alex Bor (608871088): started 'Sample_csv' option of /data command
+|28.09.2023 19:22:07| Alex Bor (608871088): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|28.09.2023 19:22:13| Alex Bor (608871088): POST request done. result: 200
+|28.09.2023 19:22:13| Alex Bor (608871088): succesfully ended 'Sample_csv' option of /data command
+|28.09.2023 19:22:13| Alex Bor (608871088): -1 access of basic command ('Sample_csv' option of /data command)
+|28.09.2023 19:24:16| Alex Bor (608871088): used /payplus command
+|28.09.2023 19:24:52| Alex Bor (608871088): Successful payment (premium)
+|28.09.2023 19:24:53| Alex Bor (608871088): Added new user to (premium)
+|28.09.2023 19:24:53| Alex Bor (608871088): Asked if user want to change email 'alexbor@mail.de' after payment
+|28.09.2023 19:24:57| Alex Bor (608871088): user wants to change mail (mail)
+|28.09.2023 19:25:07| Alex Bor (608871088): try to add alexbor@mail.de as (mail)
+|28.09.2023 19:25:07| Alex Bor (608871088): alexbor@mail.de can be used as (mail)
+|28.09.2023 19:25:10| Alex Bor (608871088): user confirmed 'Да' (mail)
+|28.09.2023 19:25:16| Alex Bor (608871088): used /upload command
+|28.09.2023 19:25:57| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:25:57| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:25:57| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:25:57| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:26:06| Alex Bor (608871088): used /show command
+|28.09.2023 19:26:06| Alex Bor (608871088): successfully started /show command
+|28.09.2023 19:26:09| Alex Bor (608871088): used /end command
+|28.09.2023 19:26:09| Alex Bor (608871088): finished state GetFileState
+|28.09.2023 19:26:15| Alex Bor (608871088): used /upload command
+|28.09.2023 19:26:24| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:26:24| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:26:24| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:26:24| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:26:24| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:26:24| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:26:42| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:26:42| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:26:42| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:26:42| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:26:42| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:26:42| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:26:54| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:26:54| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:26:54| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:26:54| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:26:54| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:26:54| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:27:10| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:27:10| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:27:10| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:27:10| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:27:10| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:27:11| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:27:11| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:27:11| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:27:11| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:27:11| Alex Bor (608871088): failed to upload file. AttributeError (/upload) 'NoneType' object has no attribute 'file_name'
+|28.09.2023 19:45:18| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:45:18| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:45:18| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:45:19| Alex Bor (608871088): downloading file {"file_id": "AgACAgIAAxkBAAI982UV18_0zFAP2vOaCAYjbIBFqblmAAIT0zEbyFGwSF1WPn4DAAFnfQEAAwIAA3kAAzAE", "file_unique_id": "AQADE9MxG8hRsEh-", "file_size": 54689, "width": 768, "height": 1024} (/upload)
+|28.09.2023 19:45:19| Alex Bor (608871088): downloading file {"file_id": "AgACAgIAAxkBAAI99GUV189zi9FGtgb1g58yA_0adPsAAxTTMRvIUbBIEP7-E--xofMBAAMCAAN5AAMwBA", "file_unique_id": "AQADFNMxG8hRsEh-", "file_size": 74717, "width": 768, "height": 1024} (/upload)
+|28.09.2023 19:45:23| Alex Bor (608871088): used /upload command
+|28.09.2023 19:45:23| Alex Bor (608871088): failed to use /upload command (no permission)
+|28.09.2023 19:45:40| Alex Bor (608871088): user tries to send premium /request
+|28.09.2023 19:45:40| Alex Bor (608871088): user failed send premium request (no permission) (/request)
+|28.09.2023 19:45:40| Alex Bor (608871088): downloading file {"file_id": "AgACAgIAAxkBAAI99WUV18_yz3z67g5OMOjM0R2eodIIAAIV0zEbyFGwSBb-mNoB_HgeAQADAgADeQADMAQ", "file_unique_id": "AQADFdMxG8hRsEh-", "file_size": 157467, "width": 960, "height": 1280} (/upload)
+|28.09.2023 19:45:54| Alex Bor (608871088): used /payplus command
+|28.09.2023 19:46:30| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:46:30| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:46:30| Alex Bor (608871088): start to process users file (/upload)
+|28.09.2023 19:46:30| Alex Bor (608871088): downloading file {"file_id": "AgACAgIAAxkBAAI-A2UV2BYEWT23FEaaBuCNGPECxxrzAAIU0zEbyFGwSBD-_hPvsaHzAQADAgADeQADMAQ", "file_unique_id": "AQADFNMxG8hRsEh-", "file_size": 74717, "width": 768, "height": 1024} (/upload)
+|28.09.2023 19:46:30| Alex Bor (608871088): downloading file {"file_id": "AgACAgIAAxkBAAI-AmUV2BY-u2nPyL5TwXFp_FtzHAQPAAIT0zEbyFGwSF1WPn4DAAFnfQEAAwIAA3kAAzAE", "file_unique_id": "AQADE9MxG8hRsEh-", "file_size": 54689, "width": 768, "height": 1024} (/upload)
+|28.09.2023 19:46:31| Alex Bor (608871088): downloading file {"file_id": "AgACAgIAAxkBAAI-BGUV2Ba2R3Z5znbgyvRYYNMcxBYQAAIV0zEbyFGwSBb-mNoB_HgeAQADAgADeQADMAQ", "file_unique_id": "AQADFdMxG8hRsEh-", "file_size": 157467, "width": 960, "height": 1280} (/upload)
+|28.09.2023 19:47:00| Alex Bor (608871088): user tries to send premium /request
+|28.09.2023 19:47:08| Alex Bor (608871088): POST request done. result: 200
+|28.09.2023 19:47:08| Alex Bor (608871088): user successfully sended premium /request
+|28.09.2023 19:49:12| Alex Bor (608871088): tried to use free /free command
+|28.09.2023 19:49:16| Alex Bor (608871088): try to add alexbor@mail.de as (mail)
+|28.09.2023 19:49:17| Alex Bor (608871088): alexbor@mail.de can be used as (mail)
+|28.09.2023 19:49:19| Alex Bor (608871088): user confirmed 'Да' (mail)
+|28.09.2023 19:49:21| Alex Bor (608871088): started /free command after email verification
+|28.09.2023 19:49:31| Alex Bor (608871088): succesfully uploaded .xlsx file using 'Sample_xlsx' option of /free command
+|28.09.2023 19:49:35| Alex Bor (608871088): POST request done. result: 200  
+|28.09.2023 19:49:35| Alex Bor (608871088): succesfully ended 'Sample_csv' option of /free command
+|29.09.2023 11:26:47| Alex Bor (608871088): used /start command
+|29.09.2023 12:30:24| Alex Bor (608871088): used /start command
+|29.09.2023 12:30:42| Alex Bor (608871088): user changes language
+|29.09.2023 12:31:13| Alex Bor (608871088): used /pay command
+|29.09.2023 12:31:56| Alex Bor (608871088): Successful payment (basic)
+|29.09.2023 12:31:56| Alex Bor (608871088): Added new user to (basic)
+|29.09.2023 12:31:56| Alex Bor (608871088): Asked if user want to change email 'alexbor@mail.de' after payment
+|29.09.2023 12:32:42| Alex Bor (608871088): user doesnt wants to change mail (mail)
+|29.09.2023 12:33:37| Alex Bor (608871088): tried to use 'Sample_csv' option of /data command
+|29.09.2023 12:33:38| Alex Bor (608871088): started 'Sample_csv' option of /data command
+|29.09.2023 12:35:04| Alex Bor (608871088): succesfully uploaded .xlsx file using 'Sample_csv' option of /data command
+|29.09.2023 12:35:12| Alex Bor (608871088): POST request done. result: 200
+|29.09.2023 12:35:12| Alex Bor (608871088): succesfully ended 'Sample_csv' option of /data command
+|29.09.2023 12:35:12| Alex Bor (608871088): -1 access of basic command ('Sample_csv' option of /data command)
+|29.09.2023 12:37:57| Alex Bor (608871088): used /payplus command
+|29.09.2023 12:38:42| Alex Bor (608871088): Successful payment (premium)
+|29.09.2023 12:38:42| Alex Bor (608871088): Added new user to (premium)
+|29.09.2023 12:38:42| Alex Bor (608871088): Asked if user want to change email 'alexbor@mail.de' after payment
+|29.09.2023 12:38:58| Alex Bor (608871088): user doesnt wants to change mail (mail)
+|29.09.2023 12:39:09| Alex Bor (608871088): used /upload command
+|29.09.2023 12:39:26| Alex Bor (608871088): start to process users file (/upload)
+|29.09.2023 12:39:26| Alex Bor (608871088): start to process users file (/upload)
+|29.09.2023 12:39:26| Alex Bor (608871088): start to process users file (/upload)
+|29.09.2023 12:39:26| Alex Bor (608871088): downloading file {"file_id": "AgACAgIAAxkBAAI-lWUWxX9II2A9rnt5KS68pv7xCE-IAAL20DEbyFG4SKU0FTGzjOEqAQADAgADeAADMAQ", "file_unique_id": "AQAD9tAxG8hRuEh9", "file_size": 48278, "width": 620, "height": 361} (/upload)
+|29.09.2023 12:39:26| Alex Bor (608871088): downloading file {"file_id": "AgACAgIAAxkBAAI-lmUWxX-YQMnHccAsZJ9eWQdSF5J9AAL30DEbyFG4SIhYbldBl46_AQADAgADeQADMAQ", "file_unique_id": "AQAD99AxG8hRuEh-", "file_size": 194123, "width": 1280, "height": 931} (/upload)
+|29.09.2023 12:39:35| Alex Bor (608871088): user tries to send premium /request
+|29.09.2023 12:39:41| Alex Bor (608871088): POST request done. result: 200
+|29.09.2023 12:39:41| Alex Bor (608871088): user successfully sended premium /request
+|29.09.2023 12:39:47| Alex Bor (608871088): downloading file {"file_id": "AgACAgIAAxkBAAI-l2UWxX-zuJ3ic751IC-WSoT80NXjAAL40DEbyFG4SB7NKGBgAdtqAQADAgADeQADMAQ", "file_unique_id": "AQAD-NAxG8hRuEh-", "file_size": 216184, "width": 1280, "height": 979} (/upload)
+|18.11.2023 21:50:20| Alex Bor (608871088): used /start command
+|18.11.2023 21:50:26| Alex Bor (608871088): user changes language
+|06.05.2024 11:59:05| Alex Bor (608871088): used /start command
+|06.05.2024 12:10:18| Alex Bor (608871088): used /start command
+|06.05.2024 12:10:21| Alex Bor (608871088): user changes language
+|06.05.2024 12:10:30| Alex Bor (608871088): used /basic command

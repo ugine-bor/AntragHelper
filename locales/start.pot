@@ -1,0 +1,528 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-11-19 10:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/users/accinfo.py:23 handlers/users/accinfo.py:28
+msgid "Неизвестно"
+msgstr ""
+
+#: handlers/users/accinfo.py:30
+msgid ""
+"\n"
+"Информация об аккаунте {} {}:\n"
+"{} {}\n"
+"\n"
+"{} {}\n"
+"\n"
+"{} {}\n"
+"\n"
+"{} {}\n"
+"\n"
+"{}\n"
+"  Basic - {}\n"
+"  Premium - {}\n"
+"  \n"
+"Подробнее о возможностях аккаунтов Basic и Premium смотрите в /help\n"
+msgstr ""
+
+#: handlers/users/accinfo.py:49
+msgid "Язык:"
+msgstr ""
+
+#: handlers/users/accinfo.py:51
+msgid "Количество загруженных файлов:"
+msgstr ""
+
+#: handlers/users/accinfo.py:53
+msgid "Количеств доступов к командам:"
+msgstr ""
+
+#: handlers/users/commands.py:38
+msgid ""
+"\n"
+"{}\n"
+"/help - Показывает это сообщение.\n"
+"/pay - Опция, позволяющая купить доступ к базовым командам.\n"
+"/payplus - Опция, позволяющая купить доступ к премиум командам.\n"
+"/info - Получить информацию об аккаунте.\n"
+"/lang - Изменить язык бота.\n"
+"/webapp - Наш сайт внутри телеграма.\n"
+"/end - Прекратить выполнение (почти) любого действия.\n"
+"/free - Бесплатная возможность протестировать нашего бота для заполнения "
+"ваших антрагов.\n"
+"\n"
+"{} (/pay):\n"
+"/data - Ручной ввод данных для заполнения документа. Доступны две "
+"функции:\n"
+"По шаблону - Вариант по шаблону предполагает загрузку .csv файла "
+"пользователем. При вызове функции через шаблон будет дан шаблон .csv "
+"файла для заполнения.\n"
+"\n"
+"{} (/payplus):\n"
+"/upload - Загрузить файлы для дальнейшей обработки.\n"
+"/show - Просмотреть загруженные файлы.\n"
+"/delete - Удалить загруженные файлы.\n"
+"/request - Запрос на обработку загруженных файлов\n"
+"\n"
+"{}\n"
+"/hack - На время тестов, чтобы не оплачивать доступ каждый раз. Эта "
+"команда дает +1 доступ ко всем командам.\n"
+"/send - Проверка отправки POST запроса\n"
+msgstr ""
+
+#: handlers/users/commands.py:63
+msgid "Общие команды:"
+msgstr ""
+
+#: handlers/users/commands.py:64
+msgid "Базовые команды"
+msgstr ""
+
+#: handlers/users/commands.py:65
+msgid "Премиум команды"
+msgstr ""
+
+#: handlers/users/commands.py:66
+msgid "Секретные админские команды:"
+msgstr ""
+
+#: handlers/users/commands.py:75
+msgid "Открытие страницы сайта внутри телеграма."
+msgstr ""
+
+#: handlers/users/commands.py:80 handlers/users/getdataCSV.py:77
+msgid "Чтобы продолжить необходимо ввести email"
+msgstr ""
+
+#: handlers/users/commands.py:122
+msgid "Действие завершено."
+msgstr ""
+
+#: handlers/users/commands.py:125
+msgid "Нельзя завершить данное действие."
+msgstr ""
+
+#: handlers/users/getcallback.py:10
+msgid "Шаблоны находятся в файле Sample.xlsx"
+msgstr ""
+
+#: handlers/users/getdataCSV.py:49
+msgid ""
+"Что-то пошло не так при отправке файла.\n"
+"Ошибка {}.\n"
+"Загрузите файл ещё или отмените действие нажав /end."
+msgstr ""
+
+#: handlers/users/getdataCSV.py:62
+msgid ""
+"Загрузите .xlsx ли .xls файл.\n"
+"Чтобы отменить действие нажмите /end."
+msgstr ""
+
+#: handlers/users/getdataCSV.py:68
+msgid ""
+"Нет доступа.\n"
+"Купите через /pay."
+msgstr ""
+
+#: handlers/users/getdataCSV.py:81
+msgid "У вас уже есть купленная опция."
+msgstr ""
+
+#: handlers/users/getdataCSV.py:111 handlers/users/getdataCSV.py:171
+msgid ""
+"Файл {} получен.\n"
+"Подождите немного, пока собирается документ."
+msgstr ""
+
+#: handlers/users/getdataCSV.py:116
+msgid ""
+"Запрос отправлен.\n"
+"Заполненный пример скоро придет на почту"
+msgstr ""
+
+#: handlers/users/getdataCSV.py:125 handlers/users/getdataCSV.py:189
+msgid ""
+"Повреждённый файл. Провверьте правильность заполненных данных. \n"
+"Попробуйте загрузить файл снова"
+msgstr ""
+
+#: handlers/users/getdataCSV.py:131 handlers/users/getdataCSV.py:198
+msgid "Неизвестная ошибка. Попробуйте загрузить файл снова"
+msgstr ""
+
+#: handlers/users/getdataCSV.py:137
+msgid "Что-то пошло не так. Загрузите файл ещё раз."
+msgstr ""
+
+#: handlers/users/getdataCSV.py:143 handlers/users/getdataCSV.py:210
+msgid "Слишком много файлов"
+msgstr ""
+
+#: handlers/users/getdataCSV.py:146
+msgid ""
+"Не тот тип файла, опробуйте снова.\n"
+"Нужен .csv"
+msgstr ""
+
+#: handlers/users/getdataCSV.py:195
+msgid ""
+"При отправке запроса произошла ошибка.\n"
+"Попробуйте снова нажав /data."
+msgstr ""
+
+#: handlers/users/getdataCSV.py:204
+msgid ""
+"Что-то пошло не так.\n"
+"Загрузите файл ещё или отмените действие нажав /end ."
+msgstr ""
+
+#: handlers/users/getdataCSV.py:213
+msgid ""
+"Не тот тип файла, опробуйте снова.\n"
+"Нужен .xlsx"
+msgstr ""
+
+#: handlers/users/getpayment.py:29
+msgid ""
+"Платеж успешно принят! Спасибо за оплату!\n"
+"\n"
+"Добавлено 2 доступа к командам Basic.\n"
+"\n"
+"Подробнее о командах в /help."
+msgstr ""
+
+#: handlers/users/getpayment.py:39
+msgid ""
+"Платеж успешно принят! Спасибо за оплату!\n"
+"\n"
+"Добавлено 2 доступа к командам Basic.\n"
+"\n"
+"Разблокирована функция /data.\n"
+"\n"
+"Подробнее о командах в /help."
+msgstr ""
+
+#: handlers/users/getpayment.py:55 handlers/users/getpayment.py:95
+#: handlers/users/getpayment.py:109 handlers/users/getpayment.py:133
+#: handlers/users/getpayment.py:146
+msgid "Да"
+msgstr ""
+
+#: handlers/users/getpayment.py:56 handlers/users/getpayment.py:96
+#: handlers/users/getpayment.py:113 handlers/users/getpayment.py:114
+#: handlers/users/getpayment.py:134 handlers/users/getpayment.py:153
+#: handlers/users/getpayment.py:161 handlers/users/getpayment.py:172
+msgid "Нет"
+msgstr ""
+
+#: handlers/users/getpayment.py:57 handlers/users/getpayment.py:97
+msgid "У вас уже есть записанный email {}. Хотите изменить его?"
+msgstr ""
+
+#: handlers/users/getpayment.py:62
+msgid "Введите email чтобы продолжить"
+msgstr ""
+
+#: handlers/users/getpayment.py:69
+msgid ""
+"Платеж успешно принят! Спасибо за оплату!\n"
+"\n"
+"Добавлен 1 доступ к командам premium.\n"
+"\n"
+"Подробнее о командах в /help."
+msgstr ""
+
+#: handlers/users/getpayment.py:79
+msgid ""
+"Платеж успешно принят! Спасибо за оплату!\n"
+"\n"
+"Добавлен 1 доступ к командам Premium.\n"
+"\n"
+"Разблокированы команды /upload, /show, /delete.\n"
+"\n"
+"Подробнее о командах в /help."
+msgstr ""
+
+#: handlers/users/getpayment.py:102
+msgid "Введите email чтобы продолжить."
+msgstr ""
+
+#: handlers/users/getpayment.py:110 handlers/users/getpayment.py:162
+msgid "Введите почту заново."
+msgstr ""
+
+#: handlers/users/getpayment.py:115
+msgid "Почта осталась прежней."
+msgstr ""
+
+#: handlers/users/getpayment.py:117 handlers/users/getpayment.py:158
+msgid ""
+"Введите код партнёра если он есть.\n"
+" Если его нет, или вы не знаете что это такое то нажмите 'Нет'"
+msgstr ""
+
+#: handlers/users/getpayment.py:121
+msgid "Выберите Да или Нет"
+msgstr ""
+
+#: handlers/users/getpayment.py:135
+msgid "Подтвердите, что это ваша почта: {}"
+msgstr ""
+
+#: handlers/users/getpayment.py:140
+msgid "Неверный формат почты, попробуйте снова."
+msgstr ""
+
+#: handlers/users/getpayment.py:155
+msgid "Почта записана."
+msgstr ""
+
+#: handlers/users/getpayment.py:166
+msgid "Выберите 'Да' или 'Нет'."
+msgstr ""
+
+#: handlers/users/getpayment.py:175 handlers/users/getpayment.py:209
+msgid ""
+"Можете начать загружать необходимые для обработки документы.\n"
+"Для этого используйте команду /upload."
+msgstr ""
+
+#: handlers/users/getpayment.py:181 handlers/users/getpayment.py:215
+msgid ""
+"Можете начать работу с заполнением документов.\n"
+"Для этого Используйте команду /data."
+msgstr ""
+
+#: handlers/users/getpayment.py:188 handlers/users/getpayment.py:222
+msgid ""
+"Загрузите .csv файл.\n"
+"Чтобы отменить действие нажмите /end."
+msgstr ""
+
+#: handlers/users/getpayment.py:195 handlers/users/getpayment.py:229
+msgid ""
+"Нет доступа.\n"
+"Команда уже использована или у вас уже есть купленная услуга."
+msgstr ""
+
+#: handlers/users/getpayment.py:234
+msgid ""
+"Неверный формат кода.\n"
+"Попробуйте ввести email снова."
+msgstr ""
+
+#: handlers/users/pay.py:12 handlers/users/paymore.py:12
+msgid "Оплатить"
+msgstr ""
+
+#: handlers/users/pay.py:13 handlers/users/paymore.py:13
+msgid "Посмотреть на сайте"
+msgstr ""
+
+#: handlers/users/pay.py:14 handlers/users/start.py:26
+msgid "⬇ Скачать шаблон заполнения ⬇"
+msgstr ""
+
+#: handlers/users/pay.py:15
+msgid "Базовая услуга"
+msgstr ""
+
+#: handlers/users/pay.py:16
+msgid ""
+"Купить базовый пакет для автоматического заполнения антрагов на основе "
+"шаблона. Получение доступа к функции /data. Подробнее о функциях в /help."
+msgstr ""
+
+#: handlers/users/pay.py:19
+msgid "Стоимость"
+msgstr ""
+
+#: handlers/users/paymore.py:14
+msgid "Премиум услуга"
+msgstr ""
+
+#: handlers/users/paymore.py:15
+msgid ""
+"Купить премиум пакет для автоматического заполнения антрагов на основе "
+"загруженных документов. Получение доступа к функциям /data /upload /show "
+"/request. Подробнее о функциях в /help."
+msgstr ""
+
+#: handlers/users/request.py:23
+msgid "Отправляю запрос."
+msgstr ""
+
+#: handlers/users/request.py:39 handlers/users/request.py:41
+msgid ""
+"При отправке запроса произошла ошибка.\n"
+"Попробуйте снова нажать /request."
+msgstr ""
+
+#: handlers/users/request.py:43
+msgid ""
+"Ваш запрос на обработку документов отправлен.\n"
+"            Результат придет вам на почту {}."
+msgstr ""
+
+#: handlers/users/request.py:47
+msgid "Нет доступа. Купите через /payplus."
+msgstr ""
+
+#: handlers/users/setlang.py:20 handlers/users/start.py:57
+msgid "Выберите язык."
+msgstr ""
+
+#: handlers/users/setlang.py:33 handlers/users/start.py:23
+msgid "Язык изменен на"
+msgstr ""
+
+#: handlers/users/setlang.py:36 handlers/users/start.py:47
+msgid "Выберите вариант из списка."
+msgstr ""
+
+#: handlers/users/start.py:28
+msgid ""
+"Нажав на /pay Вы может приобрести \"Базовый пакет\" заполения Вашего "
+"антрага вручную.\n"
+"После оплаты у Вас появится доступ для скачивания шаблона (.csv файл), "
+"который Вы должны сохранить на Вашем компьютере/смартфоне и внести в него"
+" Ваши данные.\n"
+"После этого нажмите на /data и отправьте его нам.\n"
+"Уже через 1 минуту как результат Вы получите заполненный антраг в виде "
+"PDF файла, который будет выслан Вам на Вашу электронную почту.\n"
+"\n"
+"Нажав на /payplus Вы можете приобрести \"Премиум пакет\" заполнения "
+"вашего антрага. \n"
+"После оплаты вам будет предоставлен список документов, необходимых для "
+"заполения антрага, которые вы должны будете загрузить нам в этом чате в "
+"виде PDF файлов или как фото. \n"
+"Также мы составим для вас список тех документов, копии которых вы должны "
+"приложить при подачи антрага.\n"
+"В течении трёх дней заполненные антраги в виде PSF файлов будут высланы "
+"на электронную почту. \n"
+"Вспомогательные пояснения вы также будете получать в процессе работы с "
+"нами.\n"
+"\n"
+"Нажмите /info для просмотра информации о вашем аккунте.\n"
+"\n"
+"Нажмите /help чтобы получить больше информации."
+msgstr ""
+
+#: handlers/users/start.py:44
+msgid ""
+"У вас есть бесплатная возможность протестировать работу бота и заполнить "
+"HauptAntrag используя шаблон (csv файл).\n"
+"Для этого загрузите файл, нажав на кнопку выше и нажмите /free"
+msgstr ""
+
+#: handlers/users/uploadfile.py:35
+msgid ""
+"Нет такого файла.\n"
+"Попробуй снова или нажми /end."
+msgstr ""
+
+#: handlers/users/uploadfile.py:49
+msgid ""
+"Ошибка доступа к файлу.\n"
+"Попробуй снова или нажми /end."
+msgstr ""
+
+#: handlers/users/uploadfile.py:54
+msgid ""
+"Ошибка.\n"
+"Попробуй снова или нажми /end."
+msgstr ""
+
+#: handlers/users/uploadfile.py:62
+msgid ""
+"Выберите файл, который хотите получить.\n"
+"Вы можете удалить файлы с помощию команды /delete.\n"
+"Вы можете загрузить файлы с помощью /upload.\n"
+"Чтобы закончить действие нажмите /end.\n"
+"\n"
+"Чтобы подать запрос на обработку ваших загруженных файлов используйте "
+"/request."
+msgstr ""
+
+#: handlers/users/uploadfile.py:73 handlers/users/uploadfile.py:89
+msgid "В доступе отказано. Купите через /payplus."
+msgstr ""
+
+#: handlers/users/uploadfile.py:80
+msgid ""
+"Загрузите документы или фото.\n"
+"Лимит на возможное количество файлов - 20 штук.\n"
+"Вы можете загружать .zip архивы.\n"
+"Вы можете просмотреть загруженные файлы с помощию команды /show.\n"
+"Вы можете удалить файлы с помощию команды /delete.\n"
+"\n"
+"Чтобы подать запрос на обработку ваших загруженных файлов используйте "
+"/request."
+msgstr ""
+
+#: handlers/users/uploadfile.py:105 handlers/users/uploadfile.py:112
+msgid "Загружаю '{}'"
+msgstr ""
+
+#: handlers/users/uploadfile.py:120
+msgid "Недопустимый файл '{}'"
+msgstr ""
+
+#: handlers/users/uploadfile.py:123
+msgid "Недопустимый файл."
+msgstr ""
+
+#: handlers/users/uploadfile.py:126
+msgid "Неизвестная ошибка, попробуйте снова."
+msgstr ""
+
+#: handlers/users/uploadfile.py:135
+msgid ""
+"Выберите файл, который хотите удалить.\n"
+"Вы можете просмотреть оставшиеся файлы с помощию команды /show.\n"
+"Чтобы закончить действие нажмите /end.\n"
+"\n"
+"Чтобы подать запрос на обработку ваших загруженных файлов используйте "
+"/request."
+msgstr ""
+
+#: handlers/users/uploadfile.py:145
+msgid "В доступе отказано. Купите через /payplus"
+msgstr ""
+
+#: handlers/users/uploadfile.py:153
+msgid "Удаляю файл '{}'"
+msgstr ""
+
+#: handlers/users/uploadfile.py:158
+msgid "Нет такого файла '{}'"
+msgstr ""
+
+#: handlers/users/uploadfile.py:162
+msgid "Ошибка:"
+msgstr ""
+
+#: utils/SendEmail[-].py:15
+msgid "Ваши заполненные документы"
+msgstr ""
+
+#: utils/SendEmail[-].py:19
+msgid "Архив с заполненными документами, который вы запросили в телеграм боте"
+msgstr ""
+
