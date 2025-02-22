@@ -1,4 +1,4 @@
-# 🤖 Antrag Helper Bot
+# Antrag Helper Bot
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/Long_name_my_bot)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-green)
